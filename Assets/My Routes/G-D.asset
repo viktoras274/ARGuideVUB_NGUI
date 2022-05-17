@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f3ef57f122164deba0f4502244ca1ae, type: 3}
+  m_Name: G-D
+  m_EditorClassIdentifier: 
+  Name: 
+  Points:
+  - Location:
+      Latitude: 50.82206726074219
+      Longitude: 4.396976470947266
+      Altitude: 0
+      AltitudeMode: 0
+      Label: Building G
+    IsStep: 1
+    Name: 0
+    Instruction: 
+  - Location:
+      Latitude: 50.821929931640625
+      Longitude: 4.396855354309082
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 1
+    Instruction: 
+  - Location:
+      Latitude: 50.82175064086914
+      Longitude: 4.396670818328857
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 2
+    Instruction: 
+  - Location:
+      Latitude: 50.821617126464844
+      Longitude: 4.396285057067871
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 3
+    Instruction: 
+  - Location:
+      Latitude: 50.821533203125
+      Longitude: 4.395922660827637
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 4
+    Instruction: 
+  - Location:
+      Latitude: 50.82150650024414
+      Longitude: 4.395718097686768
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 5
+    Instruction: 
+  - Location:
+      Latitude: 50.82156753540039
+      Longitude: 4.39525842666626
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 6
+    Instruction: 
+  - Location:
+      Latitude: 50.82167053222656
+      Longitude: 4.394654273986816
+      Altitude: 0
+      AltitudeMode: 0
+      Label: 
+    IsStep: 1
+    Name: 7
+    Instruction: 
+  - Location:
+      Latitude: 50.82157897949219
+      Longitude: 4.394526958465576
+      Altitude: 0
+      AltitudeMode: 0
+      Label: Building K
+    IsStep: 1
+    Name: 8
+    Instruction: 
+  SceneViewScale: 1

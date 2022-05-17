@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Έργο χωρίς τίτλο</name>
+	<gx:CascadingStyle kml:id="__managed_style_04AEF0EB392206A61167">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1A4984F1062206A61166">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_08DEBC5C922206A61166">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1A4984F1062206A61166</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_04AEF0EB392206A61167</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0AF62359052206A61162">
+		<name>D-Caf</name>
+		<LookAt>
+			<longitude>4.395720270812169</longitude>
+			<latitude>50.82164504951155</latitude>
+			<altitude>92.15358195662687</altitude>
+			<heading>-11.60314473743298</heading>
+			<tilt>0.07274460653916343</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>109.2476725262713</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08DEBC5C922206A61166</styleUrl>
+		<LineString>
+			<coordinates>
+				4.394677098511548,50.82163096187198,89.19170140477732 4.395256946612063,50.82157789107392,86.20637261293895 4.395699509840068,50.82152115965057,89.45844969948905 4.395874464167314,50.82162605098146,89.32142307850654 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="00CD682A492206A86450">
+		<name>D-I</name>
+		<LookAt>
+			<longitude>4.396871084122855</longitude>
+			<latitude>50.82257081357908</latitude>
+			<altitude>84.15025911295726</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>256.4887148958587</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08DEBC5C922206A61166</styleUrl>
+		<LineString>
+			<coordinates>
+				4.394679219025772,50.82163091027768,89.18769947480075 4.395091440288496,50.82168194187988,85.922969242482 4.395137880985804,50.82199017827176,84.09622363530065 4.395424560544717,50.82196975166868,84.38725417737915 4.395675317780992,50.82203035334072,84.38726907928537 4.395944272761298,50.82206068107743,84.38725457772463 4.396761242190466,50.82258117462035,83.9336132225217 4.397163069132386,50.82257945961014,84.25431886810294 4.397124254727296,50.82286659293559,83.51835890049357 4.39725512716814,50.82301270425344,83.71240369332862 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="02EEB4036E2206A97560">
+		<name>G-Caf</name>
+		<LookAt>
+			<longitude>4.396204187155726</longitude>
+			<latitude>50.82179774792564</latitude>
+			<altitude>93.45029095538916</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>129.9842882430676</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08DEBC5C922206A61166</styleUrl>
+		<LineString>
+			<coordinates>
+				4.397045710183147,50.82209164202401,84.66758820925506 4.396810112020509,50.82182731088895,85.06630446818026 4.396457770750429,50.82167113967152,85.57528443270498 4.396011752361946,50.82154506644082,89.42188669839805 4.395876446374951,50.82162437168713,89.37113477387086 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0F99ABE1222206AA71C8">
+		<name>G-I</name>
+		<LookAt>
+			<longitude>4.396993841429275</longitude>
+			<latitude>50.82267939369587</latitude>
+			<altitude>83.77850467463847</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>139.6560802687054</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08DEBC5C922206A61166</styleUrl>
+		<LineString>
+			<coordinates>
+				4.397017534864469,50.82209200031821,84.74366084341602 4.396946761193085,50.822133590903,84.7447775951547 4.396839323562034,50.82222230167243,84.3282429611547 4.396641295597608,50.82230762133038,84.28059106034696 4.397165149119928,50.82257924571763,84.09624396945672 4.39712501271377,50.82286662318565,83.51419456888087 4.397252505604614,50.82301196008142,83.70823009859821 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="099F8FF5F92206ACEA39">
+		<name>K-Caf</name>
+		<LookAt>
+			<longitude>4.395838410706876</longitude>
+			<latitude>50.82174919132008</latitude>
+			<altitude>92.06062195579507</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>169.6523555281238</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08DEBC5C922206A61166</styleUrl>
+		<LineString>
+			<coordinates>
+				4.396831781830195,50.82415527357919,82.56201906526915 4.397105327002128,50.82399841453633,82.93019060236954 4.397378581587348,50.82392124739672,83.13378212728698 4.397542177561755,50.8237303241358,83.20929007341743 4.39686692914965,50.82338661283556,83.48025256326864 4.396636855331613,50.82330448518533,83.50131043790707 4.396649521806482,50.82298124211679,83.51418963175796 4.396579224551925,50.82283766079968,83.46154361892899 4.396586611547299,50.82246751821334,83.51420440776047 4.395950212657834,50.82206198800176,84.38727787415446 4.395685368071291,50.82203274656221,84.3841545455173 4.395439338870679,50.82197036840601,84.4680387054498 4.395133157953339,50.82198859507621,84.09624696143808 4.395078398023369,50.82159340451894,89.26349957694775 4.395703517173972,50.82151871705113,89.4599295589347 4.395869095715909,50.82162189727264,89.30569683260676 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0653C37AD12206ADE5F9">
+		<name>K-I</name>
+		<LookAt>
+			<longitude>4.396722122618604</longitude>
+			<latitude>50.82331810463476</latitude>
+			<altitude>83.41720407490669</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>178.295780647768</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08DEBC5C922206A61166</styleUrl>
+		<LineString>
+			<coordinates>
+				4.39685481719581,50.82415802221486,82.69875366462674 4.397105511852404,50.8239969925181,82.95012357972381 4.397385205046669,50.82391935668271,83.16445933942219 4.397539749361914,50.82372938881709,83.21274890148342 4.396839037778777,50.82337376183576,83.43476601525165 4.397245873939477,50.82300925343339,83.72013027229312 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0742A47B9B2206AF5D61">
+		<name>I-Caf</name>
+		<LookAt>
+			<longitude>4.396056271335194</longitude>
+			<latitude>50.82185089748975</latitude>
+			<altitude>90.34597366771064</altitude>
+			<heading>-0.6445816904443726</heading>
+			<tilt>8.910428665150182</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>176.690476938511</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08DEBC5C922206A61166</styleUrl>
+		<LineString>
+			<coordinates>
+				4.39724936631025,50.82301033122464,83.7213977123792 4.397126665493463,50.82286608636011,83.51418272261517 4.397165800568943,50.82258099943461,84.09622060512378 4.396639427467477,50.82230508042407,84.31659008214632 4.396434127342717,50.8221853535082,84.85550046025814 4.396438721165879,50.82202725991738,85.06001784991797 4.396434984561193,50.82190456941256,85.24650600550063 4.396392981400183,50.82189097212962,85.30380774362463 4.396333266924579,50.82167587376705,86.47204688819618 4.396221103647553,50.82160171065988,89.4163239047939 4.396014647074116,50.82154665230558,89.42191048571087 4.395879047585439,50.82162113196699,89.45053372456768 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
